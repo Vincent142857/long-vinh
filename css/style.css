@@ -617,6 +617,10 @@ h3.my-profession {
   color: var(--text-black-700);
   font-weight: 400;
 }
+.contact .contact-info-item a {
+  color: var(--text-black-700);
+  text-decoration: none;
+}
 .contact .contact-form {
   flex: 0 0 100%;
   max-width: 100%;
