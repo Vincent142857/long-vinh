@@ -1,6 +1,6 @@
 /* Typing animation - home */
 const type = new Typed(".typing", {
-    strings: ["Web Designer", "Wed Developer", "Graphic Designer"],
+    strings: ["Web Designer", "Wed Developer"],
     typeSpeed: 100,
     BackSpeed: 60,
     loop: true
